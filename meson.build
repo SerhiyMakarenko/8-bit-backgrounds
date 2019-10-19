@@ -1,7 +1,7 @@
 project('8-bit-backgrounds',
   version: '0.0.1',
   license: [
-    'GPL-2.0',
+    'GPL-2.0'
   ],
   meson_version: '>= 0.40.0'
 )
